@@ -27,7 +27,7 @@
 </div>
  
   <!-------------------------------------------------------------- -->
-## 📝 Sobre <a id="sobre">
+## 🔖  Sobre <a id="sobre">
   Um site de viagens construido durante o processo de aprendizado adquirido no curso de Bootstrap4 da Origamid. 
 
  <!-------------------------------------------------------------- -->
