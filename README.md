@@ -6,24 +6,28 @@
 
 <body>
   
-  <div align="center">
-    <img src="https://github.com/RayaneGomes97/Caravan/blob/main/img/caravan.svg"> <br> <br>
-    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/RayaneGomes97/Caravan" /> &nbsp;
-    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/RayaneGomes97/Caravan" /> &nbsp;
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/RayaneGomes97/Caravan" /> &nbsp;
-    <img alt="Github License" src="https://img.shields.io/github/license/rayanegomes97/caravan" />
-  </div>
+<div align="center">
+  <img src="https://github.com/RayaneGomes97/Caravan/blob/main/img/caravan.svg"> <br> <br>
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/RayaneGomes97/Caravan" /> &nbsp;
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/RayaneGomes97/Caravan" /> &nbsp;
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/RayaneGomes97/Caravan" /> &nbsp;
+  <img alt="Github License" src="https://img.shields.io/github/license/rayanegomes97/caravan" />
+
   
+  Site de viagens <Br>
+  Este projeto foi construido em desenvolvimento durante o curso de Bootstrap4 da plataforma Origamid. 
 
-<!-------------------------------------------------------------- -->
 
-<p align="center">
-  <a href="#tecnologias">Tecnologias</a>   |   
-  <a href="#como-baixar">Como baixar o projeto</a>   |   
-  <a href="#licença">Licença</a>
-</p>
+  <p>
+    <a href="#tecnologias">Tecnologias</a>   |   
+    <a href="#como-baixar">Como baixar o projeto</a>   |   
+    <a href="#licença">Licença</a>
+  </p>
 
-<!-------------------------------------------------------------- -->
+  <img src="https://ik.imagekit.io/RayaneGomes97/Portfolio/caravan_Tm09OMYI7">
+</div>
+ 
+ <!-------------------------------------------------------------- -->
 
 ## 🚀 Tecnologias utilizadas  <a id="tecnologias">
   
