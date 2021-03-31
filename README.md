@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
 </head>
@@ -12,15 +11,19 @@
     <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/RayaneGomes97/Caravan" /> &nbsp;
     <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/RayaneGomes97/Caravan" /> &nbsp;
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/RayaneGomes97/Caravan" /> &nbsp;
+    <img alt="Github License" src="https://img.shields.io/github/license/rayanegomes97/caravan" />
   </div>
   
 
+<!-------------------------------------------------------------- -->
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>   |   
   <a href="#como-baixar">Como baixar o projeto</a>   |   
   <a href="#licença">Licença</a>
 </p>
+
+<!-------------------------------------------------------------- -->
 
 ## 🚀 Tecnologias utilizadas  <a id="tecnologias">
   
@@ -31,6 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Bootstrap](https://getbootstrap.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+<!-------------------------------------------------------------- -->
 
 ## ℹ️ Como baixar o projeto <a id="como-baixar">
  
@@ -46,6 +50,9 @@ $ cd caravan
 # Executar o Live Server
 
 ``` 
+
+<!-------------------------------------------------------------- -->
+
 
 ## 📝 Licença <a id="licença">
 
