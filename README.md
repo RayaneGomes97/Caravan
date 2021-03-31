@@ -14,11 +14,10 @@
   <img alt="Github License" src="https://img.shields.io/github/license/rayanegomes97/caravan" />
 
   
-  Site de viagens <Br>
-  Este projeto foi construido em desenvolvimento durante o curso de Bootstrap4 da plataforma Origamid. 
 
 
   <p>
+     <a href="#sobre">Sobre</a>   |   
     <a href="#tecnologias">Tecnologias</a>   |   
     <a href="#como-baixar">Como baixar o projeto</a>   |   
     <a href="#licença">Licença</a>
@@ -27,6 +26,10 @@
   <img src="https://ik.imagekit.io/RayaneGomes97/Portfolio/caravan_Tm09OMYI7">
 </div>
  
+  <!-------------------------------------------------------------- -->
+## 📝 Sobre <a id="sobre">
+  Um site de viagens construido durante o processo de aprendizado adquirido no curso de Bootstrap4 da Origamid. 
+
  <!-------------------------------------------------------------- -->
 
 ## 🚀 Tecnologias utilizadas  <a id="tecnologias">
